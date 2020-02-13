@@ -2,13 +2,13 @@
 
 ## 1. Skincare(护肤)
 
-1. [Skincare Process(护肤流程)](https://github.com/TheKernelZ/life/skincare/process#readme)	
+1. [Skincare Process(护肤流程)](skincare/process#readme)	
 
 ## 2. Gift(礼物)
 
 		1. [Gift for beautify(漂亮女孩的礼物)](https://github.com/TheKernelZ/life/gift/beautify#readme)
-  		2. Gift for literary(文艺女孩的礼物)](https://github.com/TheKernelZ/life/gift/literary#readme)
-  		3. Gift for fun(爱玩女孩的礼物)](https://github.com/TheKernelZ/life/gift/fun#readme)
+  		2. [Gift for literary(文艺女孩的礼物)](https://github.com/TheKernelZ/life/gift/literary#readme)
+  		3. [Gift for fun(爱玩女孩的礼物)](https://github.com/TheKernelZ/life/gift/fun#readme)
 
 ## 3. Culture(修养)
 
