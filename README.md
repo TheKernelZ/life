@@ -17,3 +17,4 @@
 
 ## 4. Other(其他)
 
+1. [Quotes(语录)](other/quotes)
