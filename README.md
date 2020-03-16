@@ -14,6 +14,7 @@
 
 1. [Stray Birds(飞鸟集)](culture/stray_birds#readme)
 2. [Stories about Ming Dynasty(明朝那些事儿)](culture/ming_dynasty#readme)
+3. [Norwegian Forest(挪威的森林)](culture/norwegian_forest#readme)
 
 ## 4. Other(其他)
 
